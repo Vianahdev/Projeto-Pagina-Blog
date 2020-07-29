@@ -1,0 +1,22 @@
+/* Estilo Padrão */
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-size: 1em;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+/*Area Conteiner*/
+
+#container{
+    margin: 0 auto;
+}
+
+/*area de cabeçalho*/
+#area-cabecalho{
+    background: #e6e6e6;
+}
+
