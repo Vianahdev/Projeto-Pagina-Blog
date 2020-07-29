@@ -12,11 +12,42 @@ body{
 /*Area Conteiner*/
 
 #container{
-    margin: 0 auto;
+	margin: 0 auto;
+	background: #e6e6e6;
 }
 
 /*area de cabeçalho*/
 #area-cabecalho{
-    background: #e6e6e6;
+	padding: 0;
+	text-align: center;
+}
+
+#logo{
+	background-color: #f7b600;
+	color: #fff;
+}
+
+#menu{
+	background-color: #000;
+	color: #fff;
+}
+
+#menu ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	background: #4e4e4e;
+}
+
+#menu ul li{
+	display: inline;
+}
+
+#menu ul li a{
+
+}
+
+#menu ul li a:hover{
+
 }
 
