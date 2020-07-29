@@ -23,7 +23,7 @@ body{
 }
 
 #logo{
-	background-color: #f7b600;
+	background-color: #e6e6e6;
 	color: #fff;
 	padding: 30px;
 }
@@ -34,6 +34,7 @@ body{
 	margin-bottom: 0px;
 }
 
+/*Formatação do Menu*/
 #menu ul{
 	list-style: none;
 	margin: 0;
