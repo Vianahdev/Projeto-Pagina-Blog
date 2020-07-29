@@ -1,19 +1,6 @@
-/* Estilo Padrão */
-*{
-	margin: 0;
-	padding: 0;
-}
-
-body{
-	font-size: 1em;
-	font-family: "Trebuchet MS", Helvetica, sans-serif;
-}
-
 /*Area Conteiner*/
-
 #container{
 	margin: 0 auto;
-	
 }
 
 /*area de cabeçalho*/
@@ -25,7 +12,7 @@ body{
 #logo{
 	background-color: #0098de;
 	color: #fff;
-	padding: 30px;
+	padding: 20px;
 }
 
 #menu{
