@@ -13,7 +13,7 @@ body{
 
 #container{
 	margin: 0 auto;
-	background: #e6e6e6;
+	
 }
 
 /*area de cabeçalho*/
@@ -23,7 +23,7 @@ body{
 }
 
 #logo{
-	background-color: #e6e6e6;
+	background-color: #0098de;
 	color: #fff;
 	padding: 30px;
 }
@@ -55,6 +55,36 @@ body{
 }
 
 #menu ul li a:hover{
-	color: #f7b600;
+	color: #0098de;
 }
 
+/*area de conteudo*/
+
+#area-principal{
+	width: 980px;
+	margin: 0 auto;
+	
+}
+
+#postagem-principal{
+	width: 735px;
+	float: left;
+	background: #CCC;
+	margin: 5px 0 5px 0;
+}
+
+#postagem-lateral{
+	width: 235px;
+	float: right;
+	background: #CCC;
+	margin: 5px 0 5px 0;
+}
+
+/*area rodape*/
+
+#area-rodape{
+	clear: both;
+	padding: 20px;
+	background: #CCC;
+	text-align: center;
+}
