@@ -74,9 +74,36 @@
 	
 }
 
-.lateral{
+#postagem-lateral .lateral{
  	position: relative;
- 	height: 100%;
+	height: 100%;
+	margin-top: 8px;
+}
+
+#postagem-lateral .lateral h3{
+	margin:10px;
+}
+
+#postagem-lateral .lateral p{
+	margin: 10px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid gray;
+}
+
+#postagem-lateral .lateral ul{
+	list-style: none;
+	position: relative;
+	left: -30px;
+}
+
+#postagem-lateral .lateral a{
+	text-decoration: none;
+	color: white;
+}
+
+#postagem-lateral .lateral a:hover{
+	text-decoration: underline;
+	color: black;
 }
 
 .data-postagem{
